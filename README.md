@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development and testing
 - 🌱 I’m currently learning how to implement real-time features using signalr and how to build microservice apps
 - 💞️ I’m looking to collaborate on .NET web applications
-- 📫 How to reach me [https://www.linkedin.com/in/ebrahim-mohsen-894a25351/]
+- 📫 How to reach me https://www.linkedin.com/in/ebrahim-mohsen-894a25351/
 - 😄 Pronouns: he/him
 
 <!---
